@@ -1,0 +1,13 @@
+{
+  "name": "mynanimeapp",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "developing my anime app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "author": "Jenn",
+  "license": "ISC"
+}
